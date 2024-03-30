@@ -4,7 +4,6 @@
       "id": "formatter",
       "mod_version": "3",
       "name": "formatter",
-      "path": "/formatter.lua",
       "type": "plugin",
       "version": "0.1"
     },
@@ -12,7 +11,7 @@
       "id": "formatter_black",
       "mod_version": "3",
       "name": "formatter_black",
-      "path": "/formatter_black.lua",
+      "path": "/formatters/formatter_black.lua",
       "type": "plugin",
       "version": "0.1",
       "dependencies": { "formatter": ">=0.1" }
@@ -21,7 +20,7 @@
       "id": "formatter_clangformat",
       "mod_version": "3",
       "name": "formatter_clangformat",
-      "path": "/formatter_clangformat.lua",
+      "path": "/formatters/formatter_clangformat.lua",
       "type": "plugin",
       "version": "0.1",
       "dependencies": { "formatter": ">=0.1" }
@@ -30,7 +29,7 @@
       "id": "formatter_cljfmt",
       "mod_version": "3",
       "name": "formatter_cljfmt",
-      "path": "/formatter_cljfmt.lua",
+      "path": "/formatters/formatter_cljfmt.lua",
       "type": "plugin",
       "version": "0.1",
       "dependencies": { "formatter": ">=0.1" }
@@ -39,7 +38,7 @@
       "id": "formatter_cmakeformat",
       "mod_version": "3",
       "name": "formatter_cmakeformat",
-      "path": "/formatter_cmakeformat.lua",
+      "path": "/formatters/formatter_cmakeformat.lua",
       "type": "plugin",
       "version": "0.1",
       "dependencies": { "formatter": ">=0.1" }
@@ -48,7 +47,7 @@
       "id": "formatter_crystal",
       "mod_version": "3",
       "name": "formatter_crystal",
-      "path": "/formatter_crystal.lua",
+      "path": "/formatters/formatter_crystal.lua",
       "type": "plugin",
       "version": "0.1",
       "dependencies": { "formatter": ">=0.1" }
@@ -57,7 +56,7 @@
       "id": "formatter_csharpier",
       "mod_version": "3",
       "name": "formatter_csharpier",
-      "path": "/formatter_csharpier.lua",
+      "path": "/formatters/formatter_csharpier.lua",
       "type": "plugin",
       "version": "0.1",
       "dependencies": { "formatter": ">=0.1" }
@@ -66,7 +65,7 @@
       "id": "formatter_cssbeautify",
       "mod_version": "3",
       "name": "formatter_cssbeautify",
-      "path": "/formatter_cssbeautify.lua",
+      "path": "/formatters/formatter_cssbeautify.lua",
       "type": "plugin",
       "version": "0.1",
       "dependencies": { "formatter": ">=0.1" }
@@ -75,7 +74,7 @@
       "id": "formatter_dartformat",
       "mod_version": "3",
       "name": "formatter_dartformat",
-      "path": "/formatter_dartformat.lua",
+      "path": "/formatters/formatter_dartformat.lua",
       "type": "plugin",
       "version": "0.1",
       "dependencies": { "formatter": ">=0.1" }
@@ -84,7 +83,7 @@
       "id": "formatter_dfmt",
       "mod_version": "3",
       "name": "formatter_dfmt",
-      "path": "/formatter_dfmt.lua",
+      "path": "/formatters/formatter_dfmt.lua",
       "type": "plugin",
       "version": "0.1",
       "dependencies": { "formatter": ">=0.1" }
@@ -93,7 +92,7 @@
       "id": "formatter_elmformat",
       "mod_version": "3",
       "name": "formatter_elmformat",
-      "path": "/formatter_elmformat.lua",
+      "path": "/formatters/formatter_elmformat.lua",
       "type": "plugin",
       "version": "0.1",
       "dependencies": { "formatter": ">=0.1" }
@@ -102,7 +101,7 @@
       "id": "formatter_elixir",
       "mod_version": "3",
       "name": "formatter_elixir",
-      "path": "/formatter_elixir.lua",
+      "path": "/formatters/formatter_elixir.lua",
       "type": "plugin",
       "version": "0.1",
       "dependencies": { "formatter": ">=0.1" }
@@ -111,7 +110,7 @@
       "id": "formatter_esformatter",
       "mod_version": "3",
       "name": "formatter_esformatter",
-      "path": "/formatter_esformatter.lua",
+      "path": "/formatters/formatter_esformatter.lua",
       "type": "plugin",
       "version": "0.1",
       "dependencies": { "formatter": ">=0.1" }
@@ -120,7 +119,7 @@
       "id": "formatter_gdformat",
       "mod_version": "3",
       "name": "formatter_gdformat",
-      "path": "/formatter_gdformat.lua",
+      "path": "/formatters/formatter_gdformat.lua",
       "type": "plugin",
       "version": "0.1",
       "dependencies": { "formatter": ">=0.1" }
@@ -129,7 +128,7 @@
       "id": "formatter_golang",
       "mod_version": "3",
       "name": "formatter_golang",
-      "path": "/formatter_golang.lua",
+      "path": "/formatters/formatter_golang.lua",
       "type": "plugin",
       "version": "0.1",
       "dependencies": { "formatter": ">=0.1" }
@@ -138,7 +137,7 @@
       "id": "formatter_googlejavaformat",
       "mod_version": "3",
       "name": "formatter_googlejavaformat",
-      "path": "/formatter_googlejavaformat.lua",
+      "path": "/formatters/formatter_googlejavaformat.lua",
       "type": "plugin",
       "version": "0.1",
       "dependencies": { "formatter": ">=0.1" }
@@ -147,7 +146,7 @@
       "id": "formatter_htmlbeautify",
       "mod_version": "3",
       "name": "formatter_htmlbeautify",
-      "path": "/formatter_htmlbeautify.lua",
+      "path": "/formatters/formatter_htmlbeautify.lua",
       "type": "plugin",
       "version": "0.1",
       "dependencies": { "formatter": ">=0.1" }
@@ -156,7 +155,7 @@
       "id": "formatter_jsbeautify",
       "mod_version": "3",
       "name": "formatter_jsbeautify",
-      "path": "/formatter_jsbeautify.lua",
+      "path": "/formatters/formatter_jsbeautify.lua",
       "type": "plugin",
       "version": "0.1",
       "dependencies": { "formatter": ">=0.1" }
@@ -165,7 +164,7 @@
       "id": "formatter_juliaformatter",
       "mod_version": "3",
       "name": "formatter_juliaformatter",
-      "path": "/formatter_juliaformatter.lua",
+      "path": "/formatters/formatter_juliaformatter.lua",
       "type": "plugin",
       "version": "0.1",
       "dependencies": { "formatter": ">=0.1" }
@@ -174,7 +173,7 @@
       "id": "formatter_luaformatter",
       "mod_version": "3",
       "name": "formatter_luaformatter",
-      "path": "/formatter_luaformatter.lua",
+      "path": "/formatters/formatter_luaformatter.lua",
       "type": "plugin",
       "version": "0.1",
       "dependencies": { "formatter": ">=0.1" }
@@ -183,7 +182,7 @@
       "id": "formatter_ormolu",
       "mod_version": "3",
       "name": "formatter_ormolu",
-      "path": "/formatter_ormolu.lua",
+      "path": "/formatters/formatter_ormolu.lua",
       "type": "plugin",
       "version": "0.1",
       "dependencies": { "formatter": ">=0.1" }
@@ -192,7 +191,7 @@
       "id": "formatter_perltidy",
       "mod_version": "3",
       "name": "formatter_perltidy",
-      "path": "/formatter_perltidy.lua",
+      "path": "/formatters/formatter_perltidy.lua",
       "type": "plugin",
       "version": "0.1",
       "dependencies": { "formatter": ">=0.1" }
@@ -201,7 +200,7 @@
       "id": "formatter_ocpindent",
       "mod_version": "3",
       "name": "formatter_ocpindent",
-      "path": "/formatter_ocpindent.lua",
+      "path": "/formatters/formatter_ocpindent.lua",
       "type": "plugin",
       "version": "0.1",
       "dependencies": { "formatter": ">=0.1" }
@@ -210,7 +209,7 @@
       "id": "formatter_qmlformat",
       "mod_version": "3",
       "name": "formatter_qmlformat",
-      "path": "/formatter_qmlformat.lua",
+      "path": "/formatters/formatter_qmlformat.lua",
       "type": "plugin",
       "version": "0.1",
       "dependencies": { "formatter": ">=0.1" }
@@ -219,7 +218,7 @@
       "id": "formatter_rstyler",
       "mod_version": "3",
       "name": "formatter_rstyler",
-      "path": "/formatter_rstyler.lua",
+      "path": "/formatters/formatter_rstyler.lua",
       "type": "plugin",
       "version": "0.1",
       "dependencies": { "formatter": ">=0.1" }
@@ -228,7 +227,7 @@
       "id": "formatter_rubocop",
       "mod_version": "3",
       "name": "formatter_rubocop",
-      "path": "/formatter_rubocop.lua",
+      "path": "/formatters/formatter_rubocop.lua",
       "type": "plugin",
       "version": "0.1",
       "dependencies": { "formatter": ">=0.1" }
@@ -237,7 +236,7 @@
       "id": "formatter_rustfmt",
       "mod_version": "3",
       "name": "formatter_rustfmt",
-      "path": "/formatter_rustfmt.lua",
+      "path": "/formatters/formatter_rustfmt.lua",
       "type": "plugin",
       "version": "0.1",
       "dependencies": { "formatter": ">=0.1" }
@@ -246,7 +245,7 @@
       "id": "formatter_sqlformatter",
       "mod_version": "3",
       "name": "formatter_sqlformatter",
-      "path": "/formatter_sqlformatter.lua",
+      "path": "/formatters/formatter_sqlformatter.lua",
       "type": "plugin",
       "version": "0.1",
       "dependencies": { "formatter": ">=0.1" }
@@ -255,7 +254,7 @@
       "id": "formatter_vfmt",
       "mod_version": "3",
       "name": "formatter_vfmt",
-      "path": "/formatter_vfmt.lua",
+      "path": "/formatters/formatter_vfmt.lua",
       "type": "plugin",
       "version": "0.1",
       "dependencies": { "formatter": ">=0.1" }
@@ -264,7 +263,7 @@
       "id": "formatter_zigfmt",
       "mod_version": "3",
       "name": "formatter_zigfmt",
-      "path": "/formatter_zigfmt.lua",
+      "path": "/formatters/formatter_zigfmt.lua",
       "type": "plugin",
       "version": "0.1",
       "dependencies": { "formatter": ">=0.1" }
