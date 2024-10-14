@@ -198,6 +198,15 @@
       "dependencies": { "formatter": ">=0.1" }
     },
     {
+      "id": "formatter_nph",
+      "mod_version": "3",
+      "name": "formatter_nph",
+      "path": "/formatter_nph.lua",
+      "type": "plugin",
+      "version": "0.1",
+      "dependencies": { "formatter": ">=0.1" }
+    },
+    {
       "id": "formatter_ocpindent",
       "mod_version": "3",
       "name": "formatter_ocpindent",

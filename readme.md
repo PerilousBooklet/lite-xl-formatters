@@ -20,6 +20,7 @@
 - [isort python formatter](https://pypi.org/project/isort/): `formatter_isort.lua`
 - [js-beautify](https://www.npmjs.com/package/js-beautify): `formatter_jsbeautify.lua`
 - [luaformatter](https://github.com/Koihik/LuaFormatter): `formatter_luaformatter.lua`
+- [nph](https://github.com/arnetheduck/nph): `formatter_nph.lua`
 - [ormolu](https://github.com/tweag/ormolu): `formatter_ormolu.lua`
 - [perltidy](https://github.com/perltidy/perltidy): `formatter_perltidy.lua`
 - [ocp-indent](https://github.com/OCamlPro/ocp-indent): `formatter_ocpindent.lua`
