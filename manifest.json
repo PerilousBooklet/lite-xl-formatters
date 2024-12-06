@@ -153,6 +153,15 @@
       "dependencies": { "formatter": ">=0.1" }
     },
     {
+      "id": "formatter_groovy",
+      "mod_version": "3",
+      "name": "formatter_groovy",
+      "path": "/formatter_groovy.lua",
+      "type": "plugin",
+      "version": "0.1",
+      "dependencies": { "formatter": ">=0.1" }
+    },
+    {
       "id": "formatter_htmlbeautify",
       "mod_version": "3",
       "name": "formatter_htmlbeautify",
